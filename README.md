@@ -81,6 +81,12 @@ Há cinco tabelas no conjunto de dados. Abaixo está um dicionário que lista as
 - Pré-processamento de dados
 - Contrução e análise de dados
 
+## Contexto real
+- Em um aplicativo real de pedidos, podendo ser apenas de comida, supermercado, roupas, eletrônicos, qualquer outro tipo de item ou uma combinação entre eles
+- Aplicativo que gostaria de entender o comportamento de seus clientes
+- Empresas ou pessoas que desejam lançar um novo tipo de aplicativo e precisam entender seus possíveis futuros clientes
+- Analistas de dados de empresas que desejam entender melhor os clientes para conseguir organizar melhor seus estoques ou quantidade de funcionários
+
 ## Como executar o Projeto
 - Clone o repositório
 - Navegue até o diretório do projeto
