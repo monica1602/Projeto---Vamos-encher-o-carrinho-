@@ -47,7 +47,7 @@ Há cinco tabelas no conjunto de dados. Abaixo está um dicionário que lista as
 <img src="https://github.com/user-attachments/assets/400dba41-702c-4102-b5f0-2b49eb57e7a9" alt="Projeto 3 - Tabela" width="500"/>
 
 ### Dia da semana que as pessoas fazem compras
-<img src="https://github.com/user-attachmentsQassets/99a925c5-9cd5-42fb-9d9a-7afd743b542e" alt="Projeto 3 - Tabela" width="500"/>
+<img src="https://github.com/user-attachments/assets/99a925c5-9cd5-42fb-9d9a-7afd743b542e" alt="Projeto 3 - Tabela" width="500"/>
 
 
 ## Resultados
