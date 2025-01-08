@@ -42,6 +42,7 @@ Há cinco tabelas no conjunto de dados. Abaixo está um dicionário que lista as
 - Numpy: Biblioteca que permite trabalhar com objetos multidimensionais, como matrizes e sequências
 
 ## Imagens
+<img src="https://github.com/user-attachments/assets/400dba41-702c-4102-b5f0-2b49eb57e7a9" alt="Projeto 2 - Tabela" width="500"/>
 
 ### Pedidos por hora
 
