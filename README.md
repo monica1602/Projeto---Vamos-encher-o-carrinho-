@@ -49,6 +49,10 @@ Há cinco tabelas no conjunto de dados. Abaixo está um dicionário que lista as
 ### Dia da semana que as pessoas fazem compras
 <img src="https://github.com/user-attachments/assets/99a925c5-9cd5-42fb-9d9a-7afd743b542e" alt="Projeto 3 - Tabela" width="500"/>
 
+### Tempo entre os pedidos
+<img src="https://github.com/user-attachments/assets/5b7c06f6-7d96-48d7-82a0-82c2774f0c15" alt="Projeto 3" width="500"/>
+
+
 
 ## Resultados
 - Foi possível identificar, através de gráficos, os horários com mais vendas
