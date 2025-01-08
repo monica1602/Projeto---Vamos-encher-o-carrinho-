@@ -44,28 +44,28 @@ Há cinco tabelas no conjunto de dados. Abaixo está um dicionário que lista as
 ## Imagens
 
 ### Pedidos por hora
-<img src="https://github.com/user-attachments/assets/400dba41-702c-4102-b5f0-2b49eb57e7a9" alt="Projeto 3 - Tabela" width="500"/>
+<img src="https://github.com/user-attachments/assets/400dba41-702c-4102-b5f0-2b49eb57e7a9" alt="Projeto 3 - Tabela" width="200"/>
 
 ### Dia da semana que as pessoas fazem compras
-<img src="https://github.com/user-attachments/assets/99a925c5-9cd5-42fb-9d9a-7afd743b542e" alt="Projeto 3 - Tabela" width="500"/>
+<img src="https://github.com/user-attachments/assets/99a925c5-9cd5-42fb-9d9a-7afd743b542e" alt="Projeto 3 - Tabela" width="200"/>
 
 ### Tempo entre os pedidos
-<img src="https://github.com/user-attachments/assets/5b7c06f6-7d96-48d7-82a0-82c2774f0c15" alt="Projeto 3" width="500"/>
+<img src="https://github.com/user-attachments/assets/5b7c06f6-7d96-48d7-82a0-82c2774f0c15" alt="Projeto 3" width="200"/>
 
 ### Distribuição do número de pedidos por cliente
-<img src="https://github.com/user-attachments/assets/1375d8a3-88f3-43f6-a43a-f5926f0a7b20" alt="Projeto 3" width="500"/>
+<img src="https://github.com/user-attachments/assets/1375d8a3-88f3-43f6-a43a-f5926f0a7b20" alt="Projeto 3" width="200"/>
 
 ### 20 produtos mais pedidos
-<img src="https://github.com/user-attachments/assets/c0de102d-554c-48ad-9b84-443add45b75a" alt="Projeto 3" width="500"/>
+<img src="https://github.com/user-attachments/assets/c0de102d-554c-48ad-9b84-443add45b75a" alt="Projeto 3" width="200"/>
 
 ### Quantidade de itens por pedido
-<img src="https://github.com/user-attachments/assets/151ede78-1fd3-4553-8bc1-a0fa6758629b" alt="Projeto 3" width="500"/>
+<img src="https://github.com/user-attachments/assets/151ede78-1fd3-4553-8bc1-a0fa6758629b" alt="Projeto 3" width="200"/>
 
 ### 20 principais itens incluídos mais frequentemente em pedidos repetidos
-<img src="https://github.com/user-attachments/assets/a4d914b9-3ea8-4fe3-8dbc-cc3203c31e16" alt="Projeto 3" width="500"/>
+<img src="https://github.com/user-attachments/assets/a4d914b9-3ea8-4fe3-8dbc-cc3203c31e16" alt="Projeto 3" width="200"/>
 
 ### 20 principais itens que as pessoas colocam no carrinho antes de todos os outros
-<img src="https://github.com/user-attachments/assets/9b3f7039-c957-450e-a38d-e6abd088b0d8" alt="Projeto 3" width="500"/>
+<img src="https://github.com/user-attachments/assets/9b3f7039-c957-450e-a38d-e6abd088b0d8" alt="Projeto 3" width="200"/>
 
 ## Resultados
 - Foi possível identificar, através de gráficos, os horários com mais vendas
