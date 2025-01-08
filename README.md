@@ -41,6 +41,11 @@ Há cinco tabelas no conjunto de dados. Abaixo está um dicionário que lista as
 - Matplotlib: Biblioteca para gerar gráficos
 - Numpy: Biblioteca que permite trabalhar com objetos multidimensionais, como matrizes e sequências
 
+## Imagens
+
+### Pedidos por hora
+
+
 ## Resultados
 - Foi possível identificar, através de gráficos, os horários com mais vendas
 - Que não existe uma grande variação entre os dias semana
