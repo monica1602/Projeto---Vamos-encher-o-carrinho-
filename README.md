@@ -39,33 +39,33 @@ Há cinco tabelas no conjunto de dados. Abaixo está um dicionário que lista as
 - Python: Linguagem principal utilizada para manipulação, análise e visualização de dados.
 - Pandas: Biblioteca essencial para manipulação e análise de dados estruturados, permitindo organizar informações em DataFrames e Series.
 - Matplotlib: Biblioteca voltada para a criação de gráficos e visualizações, auxiliando na interpretação e apresentação dos dados.
-- NumPy: Biblioteca que facilita o trabalho com arrays e matrizes multidimensionais, otimizando operações matemáticas e estatísticas nos dados.
+- NumPy: Biblioteca que simplifica o manuseio de vetores e matrizes, acelerando cálculos matemáticos e estatísticos nos dados.
 
 ## Imagens
 
-### Pedidos por hora
-<img src="https://github.com/user-attachments/assets/400dba41-702c-4102-b5f0-2b49eb57e7a9" alt="Projeto 3 - Tabela" width="200"/>
+### Gráfico - Pedidos por hora
+<img src="https://github.com/user-attachments/assets/400dba41-702c-4102-b5f0-2b49eb57e7a9" alt="Projeto 3 - Tabela" width="800"/>
 
-### Dia da semana que as pessoas fazem compras
-<img src="https://github.com/user-attachments/assets/99a925c5-9cd5-42fb-9d9a-7afd743b542e" alt="Projeto 3 - Tabela" width="200"/>
+### Gráfico - Dia da semana que as pessoas fazem compras
+<img src="https://github.com/user-attachments/assets/99a925c5-9cd5-42fb-9d9a-7afd743b542e" alt="Projeto 3 - Tabela" width="800"/>
 
-### Tempo entre os pedidos
-<img src="https://github.com/user-attachments/assets/5b7c06f6-7d96-48d7-82a0-82c2774f0c15" alt="Projeto 3" width="200"/>
+### Gráfico - Tempo entre os pedidos
+<img src="https://github.com/user-attachments/assets/5b7c06f6-7d96-48d7-82a0-82c2774f0c15" alt="Projeto 3" width="800"/>
 
-### Distribuição do número de pedidos por cliente
-<img src="https://github.com/user-attachments/assets/1375d8a3-88f3-43f6-a43a-f5926f0a7b20" alt="Projeto 3" width="200"/>
+### Gráfico - Distribuição do número de pedidos por cliente
+<img src="https://github.com/user-attachments/assets/1375d8a3-88f3-43f6-a43a-f5926f0a7b20" alt="Projeto 3" width="800"/>
 
-### 20 produtos mais pedidos
-<img src="https://github.com/user-attachments/assets/c0de102d-554c-48ad-9b84-443add45b75a" alt="Projeto 3" width="200"/>
+### Tabela - 20 produtos mais pedidos
+<img src="https://github.com/user-attachments/assets/c0de102d-554c-48ad-9b84-443add45b75a" alt="Projeto 3" width="400"/>
 
-### Quantidade de itens por pedido
-<img src="https://github.com/user-attachments/assets/151ede78-1fd3-4553-8bc1-a0fa6758629b" alt="Projeto 3" width="200"/>
+### Gráfico - Quantidade de itens por pedido
+<img src="https://github.com/user-attachments/assets/151ede78-1fd3-4553-8bc1-a0fa6758629b" alt="Projeto 3" width="800"/>
 
-### 20 principais itens incluídos mais frequentemente em pedidos repetidos
-<img src="https://github.com/user-attachments/assets/a4d914b9-3ea8-4fe3-8dbc-cc3203c31e16" alt="Projeto 3" width="200"/>
+### Tabela - 20 principais itens incluídos mais frequentemente em pedidos repetidos
+<img src="https://github.com/user-attachments/assets/a4d914b9-3ea8-4fe3-8dbc-cc3203c31e16" alt="Projeto 3" width="400"/>
 
-### 20 principais itens que as pessoas colocam no carrinho antes de todos os outros
-<img src="https://github.com/user-attachments/assets/9b3f7039-c957-450e-a38d-e6abd088b0d8" alt="Projeto 3" width="200"/>
+### Tabela - 20 principais itens que as pessoas colocam no carrinho antes de todos os outros
+<img src="https://github.com/user-attachments/assets/9b3f7039-c957-450e-a38d-e6abd088b0d8" alt="Projeto 3" width="400"/>
 
 ## Resultados
 - Horários de maior volume de vendas: A análise gráfica permitiu identificar os períodos do dia com maior número de pedidos, ajudando a entender os momentos de maior demanda.
@@ -75,9 +75,9 @@ Há cinco tabelas no conjunto de dados. Abaixo está um dicionário que lista as
 - Produto mais pedido: Frutas são os itens mais comprados, embora o tipo específico de fruta possa variar entre os clientes.
 
 ## Aprendizados
-- Análise de dados: Exploração e interpretação dos dados para identificar padrões, tendências e insights relevantes.
-- Qualidade dos dados: Avaliação da completude, consistência e integridade das informações, garantindo a confiabilidade dos resultados.
-- Tratamento dos dados: Modificação de tipos de dados, remoção ou imputação de valores ausentes e eliminação de duplicatas para assegurar a estrutura adequada para análise.
+- Análise de dados: Investigação e interpretação das informações para descobrir padrões, tendências e percepções importantes.
+- Qualidade dos dados: Verificação da totalidade, consistência e precisão das informações, assegurando a confiabilidade dos resultados.
+- Tratamento dos dados: Modificação de tipos de dados, remoção ou preenchimento de valores ausentes e eliminação de duplicatas para assegurar a estrutura adequada para análise.
 - Pré-processamento de dados: Preparação dos dados por meio de limpeza, transformação e organização, tornando-os adequados para modelagem e visualização.
 - Construção e análise de gráficos: Geração de visualizações para melhor compreensão dos dados, facilitando a identificação de padrões e a tomada de decisões baseadas em evidências.
 
