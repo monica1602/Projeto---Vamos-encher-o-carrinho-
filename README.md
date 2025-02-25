@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados Vamos encher o carrinho!
+# Projeto de Análise de Dados - Vamos encher o carrinho!
 
 ## Descrição do Projeto
 A Instacart é uma plataforma de entrega de supermercados que permite aos clientes realizarem pedidos online e receberem suas compras em casa, funcionando de maneira semelhante a serviços como Uber Eats e iFood.
